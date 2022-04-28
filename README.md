@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.javascript.com/"><img src="images/icon.png" alt="Javascript" width="200"></a>
+  <a href="https://guillaume-rygn.github.io/MyDarkTheme.JS/"><img src="images/icon.png" alt="Javascript" width="200"></a>
   <br>
 My Dark Theme.JS  <br>
 </h1>
@@ -12,7 +12,7 @@ My Dark Theme.JS  <br>
 
 ## WEB version 🌐
 
-Le site est en live ici 👉 [My Dark Theme.JS](https://javascriptexercice.herokuapp.com/)
+Le site est en live ici 👉 [My Dark Theme.JS](https://guillaume-rygn.github.io/MyDarkTheme.JS/)
 
 ## Technologies utilisées ⚙️
 
